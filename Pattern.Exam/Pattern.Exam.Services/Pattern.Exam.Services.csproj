@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Pattern.Exam.Dependency\Pattern.Exam.Domain.csproj" />
+    <ProjectReference Include="..\Pattern.Exam.Domain\Pattern.Exam.Domain.csproj" />
     <ProjectReference Include="..\Pattern.Exam.Infrastructure\Pattern.Exam.Infrastructure.csproj" />
   </ItemGroup>
 

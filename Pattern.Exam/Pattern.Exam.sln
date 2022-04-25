@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Exam.WebAPI", "Patt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Exam.Infrastructure", "Pattern.Exam.Infrastructure\Pattern.Exam.Infrastructure.csproj", "{8BCD902F-AED5-4B40-A4CE-CCEF483AF94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Exam.Domain", "Pattern.Exam.Dependency\Pattern.Exam.Domain.csproj", "{ADF356C5-C4BF-44FB-90EF-576FA400C058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Exam.Domain", "Pattern.Exam.Domain\Pattern.Exam.Domain.csproj", "{ADF356C5-C4BF-44FB-90EF-576FA400C058}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Exam.Services", "Pattern.Exam.Services\Pattern.Exam.Services.csproj", "{A0DC93A0-75CA-4F04-82AB-E5D0F64D98D2}"
 EndProject
